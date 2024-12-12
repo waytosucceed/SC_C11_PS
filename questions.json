@@ -1,0 +1,231 @@
+{
+  "heading": "Analyze Conditions And Relationships",
+  "topics": [
+    {
+      "heading": "Analyze Conditions And Relationships",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following is a statement?",
+          "options": [
+            { "text": "“Could you explain this problem?”" },
+            { "text": "“Water boils at 100 degrees Celsius at sea level.”" },
+            { "text": "“Open the window, please.”" },
+            { "text": "“Does this bus go downtown?”" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the contrapositive of “If it rains, then the ground will be wet”?",
+          "options": [
+            { "text": "If the ground is not wet, then it has not rained." },
+            { "text": "If the ground is wet, then it has rained." },
+            { "text": "If it does not rain, then the ground is not wet." },
+            { "text": "If it rains, then the ground is not wet." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of the following is a valid conditional statement?",
+          "options": [
+            { "text": "“If the ground is wet, then it might be due to rain.”" },
+            { "text": "“If it rains, then the ground is wet.”" },
+            { "text": "“If it rains, then it might not rain.”" },
+            { "text": "“If it rains, the sun is shining.”" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following is a converse of: “If you study, then you will pass”?",
+          "options": [
+            { "text": "If you pass, then you study." },
+            { "text": "If you do not study, then you do not pass." },
+            { "text": "If you do not pass, then you do not study." },
+            { "text": "If you pass, then you studied." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 5,
+          "question": "Identify the inverse of: “If it is snowing, then it is cold.”",
+          "options": [
+            { "text": "If it is not snowing, then it is not cold." },
+            { "text": "If it is cold, then it is snowing." },
+            { "text": "If it is not cold, then it is not snowing." },
+            { "text": "If it is not snowing, then it is cold." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of the following is a contrapositive?",
+          "options": [
+            { "text": "If P, then not Q." },
+            { "text": "If not Q, then not P." },
+            { "text": "If Q, then P." },
+            { "text": "If not P, then Q." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "If a light is red (P), then cars must stop (Q).<br> Which one of the following is the correct inverse of this statement?",
+          "options": [
+            { "text": "If a light is not red, then cars do not stop." },
+            { "text": "If cars do not stop, then the light is not red." },
+            { "text": "If cars must stop, then the light is red." },
+            { "text": "If the light is red, then cars do not stop." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "If a student passes the final exam (P), then they graduate (Q).<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If a student does not graduate, they did not pass the final exam." },
+            { "text": "If a student graduates, they passed the final exam." },
+            { "text": "If a student did not pass the final exam, they graduate." },
+            { "text": "A student passes the final exam if they do not graduate." }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "If a person is an adult (P), then they can vote (Q).<br> Which one of the following is true?",
+          "options": [
+            { "text": "A person who can vote is not an adult." },
+            { "text": "A person who is not an adult can vote." },
+            { "text": "A person who cannot vote is an adult." },
+            { "text": "A person who can not vote is not an adult." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "If a food item is perishable (P), then it must be refrigerated (Q).<br> Which one of the following must be true?",
+          "options": [
+            { "text": "A food item that is not perishable is not refrigerated." },
+            { "text": "A perishable food item is not refrigerated." },
+            { "text": "A food item that is not refrigerated is not perishable." },
+            { "text": "A refrigerated food item is perishable." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "In a culinary school, every student who learns baking also learns chocolate making. No student who learns flavour balancing learns baking.<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If Sandra learns baking, she also learns flavour balancing." },
+            { "text": "If Raj learns flavour balancing, he also learns baking." },
+            { "text": "If Leah learns chocolate making, she must learn baking." },
+            { "text": "If Tom learns flavour balancing, he cannot learn baking." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 12,
+          "question": "In a book club, anyone who reads fiction also reads history. No one who reads biographies reads fiction. <br>Which one of the following cannot be true?",
+          "options": [
+            { "text": "Alex reads biographies and history." },
+            { "text": "Beth does not read history nor fiction." },
+            { "text": "Carl reads biographies and fiction." },
+            { "text": "Dana reads fiction but not biographies." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "In a fitness challenge, if a participant completes the running challenge, they also complete the swimming challenge. No participant who completes the yoga challenge completes the swimming challenge.<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If Ethan completes the yoga challenge, he also completes the running challenge." },
+            { "text": "If Fiona completes the swimming challenge, she also completes the running challenge." },
+            { "text": "If Greg completes the swimming challenge, then he does not participate in the yoga challenge." },
+            { "text": "If Hannah completes the yoga challenge, she also completes the running challenge." }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "At a science fair, everyone who participated in chemistry experiments also participated in physics experiments. No one who participated in biology experiments participated in chemistry experiments.<br> Which one of the following cannot be true?",
+          "options": [
+            { "text": "Jamie participated in chemistry and physics experiments." },
+            { "text": "Kim does not participate in chemistry nor physics experiments." },
+            { "text": "Lee participated in biology and chemistry experiments." },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 15,
+          "question": "In an office, anyone who has access to the executive lounge also has access to the rooftop. No one with access to the server room has access to the executive lounge.<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If Nina has access to the server room, she also has access to the rooftop." },
+            { "text": "If Pete has access to the executive lounge, he also has access to the rooftop." },
+            { "text": "If Ollie has access to the rooftop, he also has access to the executive lounge." },
+            { "text": "If Quinn has access to the server room, she cannot have access to the rooftop." }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "In a math competition, if a contestant solves the algebra problem, they also solve the geometry problem. No contestant who solves the calculus problem solves the algebra problem.<br> Which one of the following cannot be true?",
+          "options": [
+            { "text": "Sam does not solve geometry problems nor algebra problems." },
+            { "text": "Tia solves the algebra and geometry problems." },
+            { "text": "Usha solves the calculus and algebra problems." },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "In a music school, anyone who learns the violin also learns the cello. No one who learns the flute learns the violin.<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If Wendy learns the flute, she also learns the cello." },
+            { "text": "If Xavier learns the violin, he also learns the flute." },
+            { "text": "If Yara learns the cello, she must learn the violin." },
+            { "text": "If Zack learns the flute, he cannot learn the violin." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "At a corporate training session, everyone who attends the leadership workshop also attends the management workshop. No one who attends the IT workshop attends the leadership workshop.<br> Which one of the following cannot be true?",
+          "options": [
+            { "text": "Alice does not attend the management and also not attended leadership workshops." },
+            { "text": "Bob attended the leadership and management workshops." },
+            { "text": "Carol attended the IT and leadership workshops." },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 19,
+          "question": "In a neighborhood association, if a resident participates in the recycling program, they also participate in the community gardening program. No resident in the security program participates in the recycling program.<br> Which one of the following must be true?",
+          "options": [
+            { "text": "If Erin participates in the security program, she also participates in the gardening program." },
+            { "text": "If Frank participates in the gardening program, he also participates in the recycling program." },
+            { "text": "If Grace participates in the recycling program, then she also participates in the security program." },
+            { "text": "If Hank participates in the security program, he cannot participate in the recycling program." }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 20,
+          "question": "In a university, anyone who majors in Environmental Science also takes a course in Sustainable Development. No student majoring in Mechanical Engineering takes a course in Environmental Science. Which one of the following cannot be true?",
+          "options": [
+            { "text": "Ivy majors in Environmental Science and takes a course in Sustainable Development." },
+            { "text": "Laura majors in Environmental Science only." },
+            { "text": "Kyle majors in Mechanical Engineering and takes a course in Environmental Science." },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        }
+      ]
+      
+    }
+  ]
+}
