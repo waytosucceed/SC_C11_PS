@@ -1,0 +1,89 @@
+{
+  "heading": "Creating a block with inputs",
+  "topics": [
+    {
+      "heading": "Creating a block with inputs",
+      "questions":
+      [
+        {
+          "questionNo": 1,
+          "question": "What is the purpose of adding inputs to a custom block in Scratch?",
+          "options": [
+            {
+              "text": "To make the code longer"
+            },
+            {
+              "text": "To allow the block to work with different values without rewriting it"
+            },
+            {
+              "text": "To make Scratch look more colorful"
+            },
+            {
+              "text": "To slow down the program"
+            }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "What is an input in a custom block?",
+          "options": [
+            {
+              "text": "A way to add color to a sprite"
+            },
+            {
+              "text": "A value that you pass to the block to customize its behavior"
+            },
+            {
+              "text": "A message that appears when the sprite talks"
+            },
+            {
+              "text": "A type of Scratch backdrop"
+            }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "How can you edit an existing custom block to add more inputs?",
+          "options": [
+            {
+              "text": "Right-click on the block and select \"Edit\""
+            },
+            {
+              "text": "Drag the block to a different part of the screen"
+            },
+            {
+              "text": "Use the “Ask and Wait” block to modify it"
+            },
+            {
+              "text": "Delete the block and create a new one"
+            }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "If you <img width='60%' src='./assests/images/question/1.png'> use what happens?",
+          "options": [
+            {
+              "text": "Changes sprite costumes"
+            },
+            {
+              "text": "Changes the color of the sprite"
+            },
+            {
+              "text": "Changes the backdrop"
+            },
+            {
+              "text": "Increases the size of the sprite"
+            }
+          ],
+          "answer": 2
+        }
+      ]
+      
+      
+    }
+  ]
+}
